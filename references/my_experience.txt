@@ -1,0 +1,3 @@
+When I built GRT I used:
+cmake .. -DBUILD_TESTS=OFF -DBUILD_SHARED_LIB=OFF
+This will build with the static libs, otherwise I was getting linking errors in Visual Studio?
