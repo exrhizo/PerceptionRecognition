@@ -1,3 +1,9 @@
+# Misc Ignores
+#################################
+*.sublime-project
+*.sublime-workspace
+
+
 # Python ignores
 #################################
 
